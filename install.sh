@@ -9,4 +9,3 @@ echo "INSTALLING APP"
 git clone https://github.com/IEPSCF-Uccle-ADGESEC2-S1-2021/exam-student-files.git
 cd
 npm install --production
-npm start
